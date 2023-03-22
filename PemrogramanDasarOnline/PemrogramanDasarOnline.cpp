@@ -29,3 +29,6 @@ int main() {
 		cout << "2. Luas Segitiga" << endl;
 		cout << "3. Luas Lingkaran" << endl;
 		cout << "4. Exit" << endl;
+
+		cout << "\nPilihan (1/2/3/4) : " << endl;
+		cin >> pilihan;
