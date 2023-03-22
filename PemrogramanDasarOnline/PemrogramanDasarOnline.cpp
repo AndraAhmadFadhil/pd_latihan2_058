@@ -63,3 +63,7 @@ int main() {
 		default:
 			cout << "Pilihian anda salah!";
 			break;
+		}
+	} while (pilihan != 4);
+
+}
